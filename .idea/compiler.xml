@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Flashcards.Flashcards-task-build-classes-java.main" target="11" />
+      <module name="Flashcards.Flashcards-task-build-classes-kotlin.main" target="11" />
+      <module name="Flashcards.Flashcards-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Flashcards.Flashcards-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Flashcards.Flashcards-task-build-reports-tests.main" target="11" />
+      <module name="Flashcards.Flashcards-task-build-test-results.main" target="11" />
+      <module name="Flashcards.Flashcards-task-build-tmp.main" target="11" />
+      <module name="Flashcards.Flashcards-task.main" target="11" />
+      <module name="Flashcards.Topics-The_Math_library-Compare_the_results.main" target="11" />
+      <module name="Flashcards.Topics-The_Math_library-Existing_functions.main" target="11" />
+      <module name="Flashcards.Topics-The_Math_library-Fourth_root.main" target="11" />
+      <module name="Flashcards.Topics-The_Math_library-Fractional_part.main" target="11" />
+      <module name="Flashcards.Topics-The_Math_library-National_assembly.main" target="11" />
+      <module name="Flashcards.Topics-The_Math_library-Sine_and_cosine.main" target="11" />
+      <module name="Flashcards.Topics-The_Math_library-Theory.main" target="11" />
+      <module name="Flashcards.Topics-Type_conversion-Existing_functions.main" target="11" />
+      <module name="Flashcards.Topics-Type_conversion-The_superior_forces_of_the_Empire.main" target="11" />
+      <module name="Flashcards.Topics-Type_conversion-Theory.main" target="11" />
+      <module name="Flashcards.Topics-Type_conversion-Where_is_the_type_overflow_possible_.main" target="11" />
+      <module name="Flashcards.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

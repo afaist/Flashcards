@@ -1,0 +1,5 @@
+### CARDS ###
+Russia#$#Moscow
+France#$#Paris
+Great Britain#$#London
+Germany#$#Berlin
